@@ -4,7 +4,7 @@
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=parkblo)](https://solved.ac/parkblo)
   <br><br>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-white?style=for-the-badge&link=https://parkblo.tistory.com/)](https://parkblo.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Blog-white?style=for-the-badge&link=https://parkblo.github.io/)](https://parkblo.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Contact-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:badmuxi@gmail.com)](mailto:badmuxi@gmail.com)
 
 </div>
