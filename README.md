@@ -23,7 +23,7 @@
 
 <br>
 
-### Latest Blog Posts
+### Latest [Blog](https://parkblo.github.io/) Posts
 
 <table>
     <tr><th>Date</th><th>Title</th></tr>
