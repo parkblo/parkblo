@@ -27,7 +27,7 @@
 
 <table>
     <tr><th>Date</th><th>Title</th></tr>
-    <!-- BLOG-POST-LIST:START --><tr><td>Fri Feb 07 2025 12:00 AM</td><td><a href="https://parkblo.github.io/blog/javascript-is-weird/">자바스크립트가 조금 이상한 것 같다</a></td></tr><tr><td>Wed Dec 11 2024 12:00 AM</td><td><a href="https://parkblo.github.io/projects/honeyflow/">HoneyFlow</a></td></tr><tr><td>Fri Mar 22 2024 12:00 AM</td><td><a href="https://parkblo.github.io/blog/boostcamp-challenge/">부스트캠프 웹・모바일 9기 챌린지 수료 후기</a></td></tr><!-- BLOG-POST-LIST:END -->
+    <!-- BLOG-POST-LIST:START --><tr><td>2025.00.07</td><td><a href="https://parkblo.github.io/blog/javascript-is-weird/">자바스크립트가 조금 이상한 것 같다</a></td></tr><tr><td>2024.00.11</td><td><a href="https://parkblo.github.io/projects/honeyflow/">HoneyFlow</a></td></tr><tr><td>2024.00.22</td><td><a href="https://parkblo.github.io/blog/boostcamp-challenge/">부스트캠프 웹・모바일 9기 챌린지 수료 후기</a></td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 <br>
