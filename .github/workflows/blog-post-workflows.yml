@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://parkblo.github.io/rss"
-          template: "| $date | [$title]($url) |$newline"
+          template: "<tr><td>$date</td><td>[$title]($url)</td></tr>"

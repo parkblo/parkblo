@@ -25,16 +25,11 @@
 
 ### Latest Blog Posts
 
-| Date | Title |
-| ---- | ----- |
-
-<!-- BLOG-POST-LIST:START -->| Fri Feb 07 2025 12:00 AM | [자바스크립트가 조금 이상한 것 같다](https://parkblo.github.io/blog/javascript-is-weird/) |
-| Wed Dec 11 2024 12:00 AM | [HoneyFlow](https://parkblo.github.io/projects/honeyflow/) |
-| Fri Mar 22 2024 12:00 AM | [부스트캠프 웹・모바일 9기 챌린지 수료 후기](https://parkblo.github.io/blog/boostcamp-challenge/) |
-<!-- BLOG-POST-LIST:END -->
-
-| 2025.02.07 | [자바스크립트가 조금 이상한 것 같다](https://parkblo.github.io/blog/javascript-is-weird/) |
-| 2024.08.22 | [부스트캠프 웹・모바일 9기 챌린지 수료 후기](https://parkblo.github.io/blog/boostcamp-challenge/) |
+<table>
+    <tr><th>Date</th><th>Title</th></tr>
+    <!-- BLOG-POST-LIST:START -->
+    <!-- BLOG-POST-LIST:END -->
+</table>
 
 <br>
 
