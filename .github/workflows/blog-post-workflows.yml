@@ -18,4 +18,4 @@ jobs:
         with:
           feed_list: "https://parkblo.github.io/rss"
           template: '<tr><td>$date</td><td><a href="$url">$title</a></td></tr>'
-          date_format: "yyyy.MM.dd"
+          date_format: "yyyy.mm.dd"
