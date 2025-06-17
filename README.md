@@ -23,7 +23,7 @@
 
 <br>
 
-### Latest [Blog](https://parkblo.github.io/) Posts
+### Latest [Blog](https://brad.kr/) Posts
 
 <table>
     <tr><th>Date</th><th>Title</th></tr>
