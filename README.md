@@ -6,10 +6,46 @@
 
 ### Experiences
 
-| Period          |                   Experience                    | Description                           |
-| --------------- | :---------------------------------------------: | ------------------------------------- |
-| 2024.06-2024.12 | **네이버 커넥트재단 부스트캠프 웹・모바일 9기** | 웹 풀스택 과정<br>챌린지, 멤버십 수료 |
-| 2019.03-2025.08 |                 **세종대학교**                  | 컴퓨터공학과 전공<br>(졸업예정)       |
+<table>
+  <thead>
+    <tr>
+      <th>Period</th>
+      <th>Experience</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2025.07 - 2025.12</td>
+      <td>
+        <strong>(주)보트르내일</strong>
+        <ul>
+          <li>Software Development 인턴</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2024.06 - 2025.01</td>
+      <td>
+        <strong>네이버 부스트캠프 웹・모바일 9기</strong>
+        <ul>
+          <li>웹 풀스택 과정 수료</li>
+          <li>애자일 기반 협업환경 경험</li>
+          <li>동시편집 문서 저작도구 'HoneyFlow' 개발</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2019.03 - 2025.08</td>
+      <td>
+        <strong>세종대학교</strong>
+        <ul>
+          <li>컴퓨터공학과 전공</li>
+          <li>졸업예정</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
