@@ -1,65 +1,20 @@
-<div align=center>
-
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=1000000000&color=65A30D&width=450&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg) <br> 박병주 | Byeongju Park
-
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=1000000000&color=65A30D&width=450&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 ### Experiences
-
-<table>
-  <thead>
-    <tr>
-      <th>Period</th>
-      <th>Experience</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2025.07 - 2025.12</td>
-      <td>
-        <strong>(주)보트르내일</strong>
-        <ul>
-          <li>Software Development 인턴</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2024.06 - 2025.01</td>
-      <td>
-        <strong>네이버 부스트캠프 웹・모바일 9기</strong>
-        <ul>
-          <li>웹 풀스택 과정 수료</li>
-          <li>애자일 기반 협업환경 경험</li>
-          <li>동시편집 문서 저작도구 'HoneyFlow' 개발</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>2019.03 - 2025.08</td>
-      <td>
-        <strong>세종대학교</strong>
-        <ul>
-          <li>컴퓨터공학과 전공</li>
-          <li>졸업예정</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+- **네이버 부스트캠프 웹・모바일 9기** (2024.06 - 2025.01)
+- **세종대학교** 컴퓨터공학과 졸업 (2019.03 - 2025.08)
 
 <br>
 
 ### Projects
 
-| Period          |      Project       | Description                                                                     | Link                                                      |
-| --------------- | :----------------: | ------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| 2024.10-2024.12 |   **HoneyFlow**    | 동시편집이 가능한 관계형 노트 저작도구<br>_부스트캠프 웹・모바일 그룹 프로젝트_ | [🔗](https://github.com/boostcampwm-2024/web29-honeyflow) |
-| 2024.03-2024.08 |     **Bingle**     | 서울시 공간 입지평가 웹 서비스<br>_Capstone디자인(산학협력프로젝트)_            | [🔗](https://github.com/parkblo/bingle-front)             |
-| 2024.03-2024.08 | **Insight Hubble** | 지식 공유 기반 SNS<br>_세종창의학기제 자기주도창의전공 I_                       | [🔗](https://github.com/parkblo/insight-hubble-front)     |
+- **HoneyFlow** [🔗](https://github.com/boostcampwm-2024/web29-honeyflow) | 동시편집이 가능한 관계형 노트 저작도구 (네이버 부스트캠프 프로젝트, 2024.10-2024.12)
+- **Bingle** [🔗](https://github.com/parkblo/bingle-front) | 서울시 공간 입지평가 웹 서비스 (Capstone디자인 프로젝트, 2024.03-2024.08)
+- **Insight Hubble** [🔗](https://github.com/parkblo/insight-hubble-front) | 지식 공유 기반 SNS (자기주도창의전공 프로젝트, 2024.03-2024.08)
 
 <br>
 
-### Latest [Blog](https://brad.kr/) Posts
+### Check [My Blog](https://brad.kr/) Posts
 
 <table>
     <tr><th>Date</th><th>Title</th></tr>
