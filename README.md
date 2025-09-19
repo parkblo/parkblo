@@ -18,7 +18,7 @@
 
 <table>
     <tr><th>Date</th><th>Title</th></tr>
-    <!-- BLOG-POST-LIST:START --><tr><td>2025.09.11</td><td><a href="https://parkblo.github.io/posts/setup-wsl2/">Windows 10에서 WSL2로 Linux 개발 환경 구축하기</a></td></tr><tr><td>2025.06.24</td><td><a href="https://parkblo.github.io/posts/honeyflow-deploy/">t2.micro에 프로젝트 욱여넣기</a></td></tr><tr><td>2025.06.17</td><td><a href="https://parkblo.github.io/posts/state-management/">프론트엔드 상태 관리의 거의 모든 것</a></td></tr><tr><td>2025.03.26</td><td><a href="https://parkblo.github.io/posts/yjs-crdt/">실시간 협업 앱 제작을 위한 Yjs, 그리고 CRDT</a></td></tr><tr><td>2025.03.06</td><td><a href="https://parkblo.github.io/posts/javascript-function/">자바스크립트 함수&lpar;Function&rpar; 다시 바라보기</a></td></tr><!-- BLOG-POST-LIST:END -->
+    <!-- BLOG-POST-LIST:START --><tr><td>2025.09.19</td><td><a href="https://parkblo.github.io/posts/design-pattern-1/">소프트웨어 디자인 패턴&lpar;1&rpar; - 싱글톤, 팩토리, 전략</a></td></tr><tr><td>2025.09.11</td><td><a href="https://parkblo.github.io/posts/setup-wsl2/">Windows 10에서 WSL2로 Linux 개발 환경 구축하기</a></td></tr><tr><td>2025.06.24</td><td><a href="https://parkblo.github.io/posts/honeyflow-deploy/">t2.micro에 프로젝트 욱여넣기</a></td></tr><tr><td>2025.06.17</td><td><a href="https://parkblo.github.io/posts/state-management/">프론트엔드 상태 관리의 거의 모든 것</a></td></tr><tr><td>2025.03.26</td><td><a href="https://parkblo.github.io/posts/yjs-crdt/">실시간 협업 앱 제작을 위한 Yjs, 그리고 CRDT</a></td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 <br>
