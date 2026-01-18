@@ -18,7 +18,7 @@
 
 <table>
     <tr><th>Date</th><th>Title</th></tr>
-    <!-- BLOG-POST-LIST:START --><tr><td>2026.01.18</td><td><a href="https://parkblo.github.io/posts/2025-01-11-codelog-data-security/">[No Title] - Post</a></td></tr><tr><td>2026.01.18</td><td><a href="https://parkblo.github.io/posts/2025-01-04-codelog-architecture/">[No Title] - Post</a></td></tr><tr><td>2025.12.31</td><td><a href="https://parkblo.github.io/posts/retrospect2025/">2025년을 떠나 보내며</a></td></tr><tr><td>2025.10.29</td><td><a href="https://parkblo.github.io/posts/tsp/">외판원 순회 문제 [BOJ 2098 / Node.js]</a></td></tr><tr><td>2025.10.18</td><td><a href="https://parkblo.github.io/posts/js-prototype/">자바스크립트는 왜 프로토타입을 선택했을까?</a></td></tr><!-- BLOG-POST-LIST:END -->
+    <!-- BLOG-POST-LIST:START --><tr><td>2026.01.18</td><td><a href="https://parkblo.github.io/posts/codelog-feature/">CodeLog 개발기 &lpar;3&rpar; 코드 리뷰와 아바타 이미지 변경</a></td></tr><tr><td>2026.01.11</td><td><a href="https://parkblo.github.io/posts/codelog-data-security/">CodeLog 개발기 &lpar;2&rpar; 보안과 신뢰성</a></td></tr><tr><td>2026.01.04</td><td><a href="https://parkblo.github.io/posts/codelog-architecture/">CodeLog 개발기 &lpar;1&rpar; 아키텍처와 코어 패턴</a></td></tr><tr><td>2025.12.31</td><td><a href="https://parkblo.github.io/posts/retrospect2025/">2025년을 떠나 보내며</a></td></tr><tr><td>2025.10.29</td><td><a href="https://parkblo.github.io/posts/tsp/">외판원 순회 문제 [BOJ 2098 / Node.js]</a></td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 <br>
